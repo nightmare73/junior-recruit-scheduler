@@ -1,4 +1,6 @@
-# 주니어 개발자를 위한 취업 정보
+﻿# 주니어 개발자를 위한 취업 정보
+
+[Korean](./README.md) | [Chinese](./README-zh_CN.md)  
 
 <div align=center>
 
@@ -59,7 +61,9 @@
 
 ### 추천 기업
 
-* [~ 2019-07-29 17:00:00] [카카오페이 클라이언트(안드로이드/IOS) 인턴 모집](https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=12236)
+* [2019.09.30 10:00:00 ~ 2019.10.25 17:00:00] [2019 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/109/2019-winter-coding)
+* [2019.10.25 15:00:00 ~ 2019.11.05 10:00:00] [우아한형제들 우아한 테크코스 2기 모집](https://woowacourse.github.io/)
+* [2019.10.21 00:00:00 ~ 2019.11.05 17:00:00] [2019 카카오 개발자 겨울 인턴십 (채용 연계형)](https://careers.kakao.com/jobs/P-11409)
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
@@ -78,18 +82,18 @@
   * [MyMusicTaste 개발문화](https://github.com/MyMusicTaste/recruit)
   * [기술 블로그](https://mymusictaste.github.io/)
 
-* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://riiid.co/ko/career)
+* [채용시까지] [Riiid(산타토익) 개발자 전분야 채용](https://career.riiid.app)
   * [Riiid 회사소개](https://riiid.co/ko/)
   * [프론트엔드 기술스택](https://apply.riiid.app/)
   * [(참고자료) 산타토익 소개](https://santatoeic.com/intro)
 
-* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2srWAe7)
+* [채용시까지] [트레바리 주니어 개발 직군 채용](http://bit.ly/2ZSFUvi)
 
-* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)  	
-    * [기술 블로그](https://tech.peoplefund.co.kr/)	
-    * 지인 추천	
-      * 잡플래닛 평점 4.0	
-      * 사내 스터디 문화가 활발	
+* [채용시까지] [피플펀드 개발자 채용](https://bit.ly/2HhIKSm)
+    * [기술 블로그](https://tech.peoplefund.co.kr/)
+    * 지인 추천
+      * 잡플래닛 평점 4.0
+      * 사내 스터디 문화가 활발
       * 개발팀 문화가 좋아 대부분 좋은 회사로 이직 (쿠팡, 카카오 모빌리티, 카카오뱅크)
 
 * [채용시까지] [레이니스트 (뱅크샐러드) 전분야 채용](https://rainist.com/recruit/engineer)
@@ -106,6 +110,7 @@
 ### 채용 관련 행사
 
 채용과 관련된 프로그래밍 대회, 해커톤 일정, 세미나 등을 포함합니다.
+
 
 
 ### 이외 채용정보 얻는법
@@ -126,6 +131,10 @@
 주니어를 위한 각종 팁은 [페이스북 페이지](https://www.facebook.com/devbeginner/)를 참고해주세요
 
 ### 구직 전반
+
+* [원티드와 함께하는 개발자 커리어 터치 참석 후기](https://velog.io/@doondoony/후기-원티드와-함께하는-개발자-커리어-터치)
+
+* [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
   
@@ -166,6 +175,8 @@
 * [원티드와 함께하는 개발자 커리어 터치](https://www.notion.so/8a5fb590ae204295adf8117b5f58e32e)
 
 * [28세 요우의 개발자 이직 대탐험](http://luckyyowu.tistory.com/382)
+
+* [강디너의 이직 탐험기](https://kdinner.tistory.com/58)
 
 ### 이력서 & 포트폴리오 작성법
 
@@ -242,9 +253,10 @@
 * 2018 카카오 블라인드 코딩테스트 [1차](http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/), [2차](http://tech.kakao.com/2017/10/24/kakao-blind-recruitment-round-2/), [3차](http://tech.kakao.com/2017/11/14/kakao-blind-recruitment-round-3/) 해설
 * 2018 카카오 코드 페스티벌 [예선전](http://tech.kakao.com/2018/08/09/code-festival-2018-round-1/), [본선](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/) 해설
 * 2019 카카오 신입 공채 코딩 테스트 [1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/), [2차](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) 해설
+* 2020 카카오 신입 공채 코딩 테스트 [1차](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/), [2차](https://tech.kakao.com/2019/10/21/2020-카카오-블라인드-공채-2차-오프라인-코딩-테스트-문/) 해설
 * [Java Interview Question (영문)](https://www.javatpoint.com/corejava-interview-questions)
 
 ### 추천 도서
 
-* [프로그래밍 면접 이렇게 준비한다](http://book.naver.com/bookdb/book_detail.nhn?bid=7443406)
+* [프로그래밍 면접 이렇게 준비한다](https://book.naver.com/bookdb/book_detail.nhn?bid=15064639)
   * [요약정리](https://www.slideshare.net/ddayinhwang9/ss-60152650)
