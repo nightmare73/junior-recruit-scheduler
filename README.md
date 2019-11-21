@@ -61,9 +61,7 @@
 
 ### 추천 기업
 
-* [2019.09.30 10:00:00 ~ 2019.10.25 17:00:00] [2019 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/109/2019-winter-coding)
-* [2019.10.25 15:00:00 ~ 2019.11.05 10:00:00] [우아한형제들 우아한 테크코스 2기 모집](https://woowacourse.github.io/)
-* [2019.10.21 00:00:00 ~ 2019.11.05 17:00:00] [2019 카카오 개발자 겨울 인턴십 (채용 연계형)](https://careers.kakao.com/jobs/P-11409)
+* [2019.11.06 18:00:00 ~ 2019.11.27 18:00:00] [당근마켓 블라인드 채용 - 웹 개발 챌린지](https://programmers.co.kr/competitions/112/2019-daangn-blind-recruitment)
 
 * [채용시까지] [당근마켓 백엔드/플랫폼 신입/인턴 채용](https://www.notion.so/07ca1fda22584d60a48ef43a8cf9bab0)
   * [기술 블로그](https://medium.com/daangn)
@@ -137,7 +135,7 @@
 * [스타트업 주의 사항](https://www.facebook.com/dalinaum/posts/10157321350303468)
 
 * [MS Imagine Cup 국가대표의 스타트업 도전기 - 창업 실패부터 현재 커리어를 만들기까지 - 참석후기](https://jojoldu.tistory.com/423)
-  
+
 * [마음에 안드는 중소기업에 합격했을때](https://jojoldu.tistory.com/398)
 
 * [Tech HR - 주니어 개발자와 시니어 개발자의 차이 필독](https://jojoldu.tistory.com/163)
